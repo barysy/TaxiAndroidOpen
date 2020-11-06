@@ -20,7 +20,7 @@ Read description of this project [maven-android-sdk-deployer](https://github.com
 
 Using project dependencies:
 
-[androidannotations](http://androidannotations.org/)
+[androidannotations](http://androidannotations.org/
 
 [android-reactive-location](https://github.com/mcharmas/Android-ReactiveLocation)
 
